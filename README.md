@@ -57,24 +57,24 @@ facial-expression-recognition/
 	```bash
 	 pip install -r requirements.txt
 	```
-##How to Run the Application 🚀
+## How to Run the Application 🚀
 After setting up the environment, run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
 
-##Usage 📸
+## Usage 📸
 
 1. Upload a facial image in .jpg, .jpeg, or .png format.
 2. The model will predict the facial expression and display the result.
 
-##Future Improvements 🚀
+## Future Improvements 🚀
 1. Improve model accuracy with more training data.
 2. Add real-time webcam facial expression recognition.
 3. Integrate with other systems for automatic emotion detection in videos.
 
 
-##Acknowledgements 🙏
+## Acknowledgements 🙏
 FER-2013 Dataset: Available on Kaggle for training the model.
 TensorFlow and Keras for providing the deep learning frameworks.
 Streamlit for creating easy-to-deploy web applications.
