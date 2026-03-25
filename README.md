@@ -62,6 +62,13 @@ After setting up the environment, run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
+## Try it by Your Self
+
+Streamlit APP:
+```bash
+https://faceexpressionrecognition.streamlit.app/
+```
+
 
 ## Usage 📸
 
